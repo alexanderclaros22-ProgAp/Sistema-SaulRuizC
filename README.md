@@ -1,9 +1,1 @@
 ﻿# Sistema-SaulRuizC
-
-Este será un sistema de GitHub para la Actividad 1 dejada en clases
-
-Saúl Alexander Ruiz Claros
-
-Una descripción de lo que estás aprendiendo hasta ahora: Nunca habia usado GitHub y estoy aprendiendo que es un lugar donde puedo almacenar todo el progreso de mi proyecto y trabajarlo en conjunto con mi equipo
-
-Un listado con 3 cosas nuevas que descubriste sobre GitHub: A crear mi sistema A vincularlo con mi proyecto con los comandos A Guardar el progreso de mi proyecto en GitHub
